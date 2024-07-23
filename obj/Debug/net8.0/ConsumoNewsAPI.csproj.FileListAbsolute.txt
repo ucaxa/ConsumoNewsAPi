@@ -1,0 +1,17 @@
+C:\Users\reina\source\repos\ConsumoNewsAPI\bin\Debug\net8.0\ConsumoNewsAPI.exe
+C:\Users\reina\source\repos\ConsumoNewsAPI\bin\Debug\net8.0\ConsumoNewsAPI.deps.json
+C:\Users\reina\source\repos\ConsumoNewsAPI\bin\Debug\net8.0\ConsumoNewsAPI.runtimeconfig.json
+C:\Users\reina\source\repos\ConsumoNewsAPI\bin\Debug\net8.0\ConsumoNewsAPI.dll
+C:\Users\reina\source\repos\ConsumoNewsAPI\bin\Debug\net8.0\ConsumoNewsAPI.pdb
+C:\Users\reina\source\repos\ConsumoNewsAPI\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\reina\source\repos\ConsumoNewsAPI\obj\Debug\net8.0\ConsumoNewsAPI.csproj.AssemblyReference.cache
+C:\Users\reina\source\repos\ConsumoNewsAPI\obj\Debug\net8.0\ConsumoNewsAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reina\source\repos\ConsumoNewsAPI\obj\Debug\net8.0\ConsumoNewsAPI.AssemblyInfoInputs.cache
+C:\Users\reina\source\repos\ConsumoNewsAPI\obj\Debug\net8.0\ConsumoNewsAPI.AssemblyInfo.cs
+C:\Users\reina\source\repos\ConsumoNewsAPI\obj\Debug\net8.0\ConsumoNewsAPI.csproj.CoreCompileInputs.cache
+C:\Users\reina\source\repos\ConsumoNewsAPI\obj\Debug\net8.0\ConsumoN.045760A4.Up2Date
+C:\Users\reina\source\repos\ConsumoNewsAPI\obj\Debug\net8.0\ConsumoNewsAPI.dll
+C:\Users\reina\source\repos\ConsumoNewsAPI\obj\Debug\net8.0\refint\ConsumoNewsAPI.dll
+C:\Users\reina\source\repos\ConsumoNewsAPI\obj\Debug\net8.0\ConsumoNewsAPI.pdb
+C:\Users\reina\source\repos\ConsumoNewsAPI\obj\Debug\net8.0\ConsumoNewsAPI.genruntimeconfig.cache
+C:\Users\reina\source\repos\ConsumoNewsAPI\obj\Debug\net8.0\ref\ConsumoNewsAPI.dll
